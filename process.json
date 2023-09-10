@@ -36,9 +36,9 @@
       "NODE_PORT":3000,
       "DB_HOST":"localhost",
       "DB_PORT": "3306",
-      "DB_USER": "trungle224",
-      "DB_PASSWORD": "123123123!@#",
-      "DB_NAME": "databaseweb2",
+      "DB_USER": "longsuke123",
+      "DB_PASSWORD": "Zxzzcxczc0@",
+      "DB_NAME": "longsuke",
       "DB_DIALECT": "mysql"
     }
   }]
